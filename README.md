@@ -12,3 +12,8 @@ Este projeto utiliza a biblioteca **PyTube** para baixar vídeos do YouTube com 
 - Biblioteca PyTube instalada. Para instalar, utilize:
   ```bash
   pip install pytube
+
+---
+
+![image](https://github.com/user-attachments/assets/7adb10a8-5fbc-4ccb-ac1d-d3482b987496)
+
